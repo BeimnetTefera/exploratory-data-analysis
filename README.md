@@ -59,7 +59,7 @@ Relationships:
 
 ## Analysis Phases
 
-The exploratory analysis was divided into six phases:
+The exploratory analysis was divided into 12 phases:
 
 ### 1. Database Exploration
 ### 2. Dimension Exploration
@@ -67,6 +67,11 @@ The exploratory analysis was divided into six phases:
 ### 4. Measure Exploration
 ### 5. Magnitude Analysis
 ### 6. Ranking Analysis
+### 7. Change Overtime
+### 8. Cummulative Analysis
+### 9. Performance Analysis
+### 10. Part to Whole Analysis
+### 11. Data Segmentation
 ---
 
 ## Key Business Insights
@@ -126,6 +131,14 @@ The top three customers based on sales performance were:
 │   ├── 04_measure_exploration.sql
 │   ├── 05_magnitude_exploration.sql
 │   └── 06_ranking_exploration.sql
+│   ├── 07_change_ocertime_analysis.sql
+│   ├── 08_cummulative_analysis.sql
+│   ├── 09_performance_analysis.sql
+│   ├── 10_part_to_whole_analysis.sql
+│   ├── 11_data_segmentation.sql
+│   └── 12_customer_report.sql
+│   └── 13_product_report.sql
+|
 │
 ├── README.md
 └── dataset
