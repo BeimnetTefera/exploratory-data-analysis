@@ -2,9 +2,9 @@
 
 ## Project Overview
 
-This project focuses on performing Exploratory Data Analysis (EDA) on a retail sales dataset using SQL. The goal was to explore the database structure, understand customer and product behavior, analyze sales performance, and generate actionable business insights.
+This project demonstrates a comprehensive retail sales analysis using SQL, transforming raw transactional data into meaningful business insights. The primary objective was to explore the underlying data structure, evaluate customer and product behavior, identify sales trends, and uncover opportunities for business growth.
 
-The analysis was conducted using SQL scripts organized into multiple exploration phases, allowing a systematic investigation of the dataset from different perspectives.
+Using a structured exploratory data analysis (EDA) approach, the dataset was examined through multiple analytical phases, including database exploration, sales performance analysis, customer segmentation, ranking analysis, trend analysis, cumulative analysis, and contribution analysis. These investigations provided a deeper understanding of revenue generation, purchasing patterns, product performance, and regional sales distribution.
 
 ---
 
