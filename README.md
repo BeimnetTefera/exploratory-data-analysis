@@ -1,4 +1,4 @@
-# Sales Data Exploratory Analysis Using SQL
+# End-to-End SQL Retail Analytics Project | EDA, Performance Analysis, and Business Insights
 
 ## Project Overview
 
